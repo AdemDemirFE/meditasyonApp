@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/MobilDiyalizHasta" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ionic-preview-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ionic2-taxi-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mobileHealty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mobileankaplus" vcs="Git" />
+  </component>
+</project>
